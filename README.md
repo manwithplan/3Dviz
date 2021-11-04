@@ -2,8 +2,10 @@
 
 The goal of this project is to create 3-dimensional visualations for a given address somewhere in Flanders.
 
-<img src="Source/gerechtsgebouw.jpg" alt="Justitiepaleis" width="200"/>
-<img src="Source/chrome_Dj0hEWoBfS.jpg" alt="Visualisatie" width="200"/>
+Real                       |  Visualized
+:-------------------------:|:-------------------------:
+<img src="Source/gerechtsgebouw.jpg" alt="Justitiepaleis" width="200"/> | <img src="Source/chrome_Dj0hEWoBfS.jpg" alt="Visualisatie" width="200"/>
+
 
 ### Structure
 
