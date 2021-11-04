@@ -33,6 +33,7 @@ Further experimentation with API's such as the QGIS and GeoServer are to be impl
 ### Installation
 
 - Clone the repository / download the files. Open your terminal and navigate to this directory.
+- Install dependencies with `pip install -r requirements.txt`.
 - Open the notebook, execute all the cells and fill out the address you want visualized in the last cell.
 - Watch the magic happen
 
