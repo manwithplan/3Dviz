@@ -11,8 +11,9 @@ Real                       |  Visualized
 
 Project is divided into 2 folders:
 
-- **Code**: containing a jupyter notebook containing the functional code
-- **Data**: containing GeoTiff files of DTM and DSM data.
+- **Code**: containing a jupyter notebook containing the functional code.
+- **Source**: source files for the readme.
+- **Data**: containing GeoTiff files of DTM and DSM data. Currently this folder is ignored, and a new version of it should be downloaded when cloning this repo.
 
 ### Tech
 
