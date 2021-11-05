@@ -19,7 +19,7 @@ Project is divided into 2 folders:
 
 The source code uses the folowing libraries:
 - **rasterio** for handling the tiff files
-- **matplotlib** for handling al the plotting functionality
+- **matplotlib** and **plotly** for handling al the plotting functionality
 - **os** for navigating local folders on the system
 - **numpy** for all numerical array calculations of the tiff files
 - **requests** handling communication with the api's
