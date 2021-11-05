@@ -11,8 +11,9 @@ Real                       |  Visualized
 
 Project is divided into 2 folders:
 
-- **Code**: containing a jupyter notebook containing the functional code
-- **Data**: containing GeoTiff files of DTM and DSM data.
+- **Code**: containing a jupyter notebook containing the functional code.
+- **Source**: source files for the readme.
+- **Data**: containing GeoTiff files of DTM and DSM data. Currently this folder is ignored, and a new version of it should be downloaded when cloning this repo.
 
 ### Tech
 
@@ -32,6 +33,7 @@ Further experimentation with API's such as the QGIS and GeoServer are to be impl
 ### Installation
 
 - Clone the repository / download the files. Open your terminal and navigate to this directory.
+- Install dependencies with `pip install -r requirements.txt`.
 - Open the notebook, execute all the cells and fill out the address you want visualized in the last cell.
 - Watch the magic happen
 
